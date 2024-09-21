@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujaymann" alt="sujaymann" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Android Development**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **sujay2004mann@gmail.com**
 
