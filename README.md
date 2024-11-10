@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujaymann" alt="sujaymann" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Deep Learning, PyTorch**
 
 - 💬 Ask me about **Machine Learning**
 
