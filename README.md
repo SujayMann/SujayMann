@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sujay2004mann@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1wu13EskPQPTEMZsAnLHe4uRqGKMyU5sJ/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1u8widVj0BQ6ukmL6Kwp7Zw65CU8FLRGS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
